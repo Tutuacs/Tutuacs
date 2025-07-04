@@ -8,30 +8,27 @@
 </div>
 
 ###
+<h1 align="center">Principal Tecnologies</h1>
 
-<img align="right" height="250" src="https://camo.githubusercontent.com/9ffc0cc8b1dae5982730409191b9b4339506c4d19b3582ec1c50b1302be5235b/68747470733a2f2f757466732e696f2f662f6f4230506b6775555969676d73327a486c4e376671756d4b6755523076574436566e69436178344654356c33636b324f"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
+<div align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" alt="nestjs logo"  />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
   <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
 </div>
 
 ###
 
-<p align="left">Principal Tecnologies</p>
+<h4 align="center">Also known</h4>
 
-###
+#####
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
@@ -46,12 +43,15 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
 </div>
 
-###
+##
 
-<div align="left">
+<h2 align="center">Contact-me</h2>
+
+### 
+
+<div align="center">
   <a href="https://www.linkedin.com/in/arthur-silva-277606250">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
